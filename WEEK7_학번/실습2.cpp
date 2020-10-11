@@ -17,6 +17,6 @@ int main() {
     else {
         std::cout << "Exception : Invalid Input!!" << std::endl;
     }
-
+    
     return 0;
 }
